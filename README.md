@@ -2,7 +2,7 @@
 
 ## Project Scope
 
-Logan Webb's 2026 season has featured one of the largest performance swings of any starting pitcher. During the month of June, he threw 38 innings with a 0.71 ERA. Over his remaining 62⅓ innings, he posted a 5.78 ERA. In this project, I grouped five of Logan Webb's worst starts against the five starts he made in June. I examined pitch usage, pitch effectiveness, pitch characteristics, pitch location, count tendencies, and mechanics across the two groups. The goal was to uncover an actionable insight by identifying a changeable difference that could explain Webb's performance.
+Logan Webb's 2026 season has featured one of the largest performance swings of any starting pitcher. During the month of June, he threw 38 innings with a 0.71 ERA. Over his remaining 62⅓ innings, he posted a 5.78 ERA. In this project, I grouped five of Logan Webb's worst starts against the five starts he made in June. I examined pitch usage, pitch effectiveness, pitch characteristics, pitch location, count tendencies, and mechanics across the two groups. The goal was to uncover an actionable insight by identifying a changeable difference that could explain Webb's performance. All notebooks, data, and figures used in this analysis are included in the repository and can be explored above.
 
 ## Results
 
