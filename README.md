@@ -14,7 +14,7 @@ Out of all the potential reasons for Webb's poor starts, pitch usage provided th
 
 ## Pitch Effectiveness
 
-All five of Webb's pitches were far less effective in his bad starts. Each pitch saw its OPS increase by between .440 and .885. Rather than providing an insight on its own, this serves as a guide for where to look next. In this case, it showed Webb's struggles were consistent across his entire arsenal rather than isolated to one or two pitches. Webb's whiff rates did not show any dramatic change that helped explain his performance.
+All five of Webb's pitches were far less effective in his bad starts. Each pitch saw its OPS increase by between .440 and .885. Rather than providing an insight on its own, this serves as a guide for where to look next. In this case, it showed Webb's struggles were consistent across his entire arsenal rather than isolated to one or two pitches. Webb's whiff rates did not show any dramatic change that infornmed upon his performance.
 
 ## Pitch Characteristics
 
